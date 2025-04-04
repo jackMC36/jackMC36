@@ -3,4 +3,4 @@ I like to do fun projects in my free time to get better at programming ! :)
 
 MAIN LANGUAGES: Python, C, Java
 
-MAIL: jacques.kzk@gmail.com
+MAIL: jacques.KOZIK@etu.uca.fr
